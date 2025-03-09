@@ -18,7 +18,6 @@ public class ActivateDoorAnimation : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("aaa");
-        doorAnimator.SetTrigger("Door Reached");
+        doorAnimator.SetTrigger("Door reached");
     }
 }
