@@ -6,6 +6,13 @@ TagManager:
   tags:
   - InteractionManager
   - Bibli
+  - Cible
+  - Bac
+  - Fenetre
+  - Miroir
+  - NameShow
+  - Pharminov
+  - Folio
   layers:
   - Default
   - TransparentFX

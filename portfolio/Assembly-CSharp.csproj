@@ -61,8 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\LightSelected.cs" />
+    <Compile Include="Assets\Scripts\ShowUI.cs" />
     <Compile Include="Assets\Scripts\InteractionManager.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\ShowName.cs" />
     <Compile Include="Assets\Scripts\ActivateInteraction.cs" />
     <Compile Include="Assets\Animations\ActivateDoorAnimation.cs" />
     <Compile Include="Assets\Input Maps\InteractMap.cs" />
